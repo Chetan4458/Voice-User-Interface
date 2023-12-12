@@ -19,21 +19,17 @@ WhatsApp sentiment analysis involves analyzing the emotions and opinions express
 <br />![Screenshot 2023-12-12 160545](https://github.com/Chetan4458/Voice-User-Interface/assets/111554115/6ace76a9-64fa-491a-b6fe-0d3cc552155d)
 <br />
 ### Conversion
-<br />![Screenshot 2023-12-12 160749](https://github.com/Chetan4458/Voice-User-Interface/assets/111554115/f34f2274-3cbe-4819-bc3a-30ade6b47426)
+<br />![Screenshot 2023-12-12 160611](https://github.com/Chetan4458/Voice-User-Interface/assets/111554115/c6123d1d-2a77-4a4e-82cf-f0a899d9a0f2)
+<br />
+### Speech to text features
+<br />![Screenshot 2023-12-12 160633](https://github.com/Chetan4458/Voice-User-Interface/assets/111554115/2029e66b-5739-40ff-bff7-f33a0cad9f3c)
+<br />
 
-<br />
-### Speech to text
-<br />![Screenshot 2023-12-12 160938](https://github.com/Chetan4458/Voice-User-Interface/assets/111554115/b7c2e1bb-864e-4297-9461-9aa1912a0040)
-<br />
-### Various features
-<br />![Screenshot 2023-12-12 160633](https://github.com/Chetan4458/Voice-User-Interface/assets/111554115/caa80bbf-efa1-4fa4-81f6-cec8276b936d)
-<br />![Screenshot 2023-12-12 160718](https://github.com/Chetan4458/Voice-7144-4d21-bbb4-1e8486438b07)
-<br />![Screenshot 2023-12-12 160611](https://github.com/Chetan4458/Voice-User-Interface/assets/111554115/235eb7b9).
 <br />
 ### Chat File transcription
 <br />![Screenshot 2023-12-12 160749](https://github.com/Chetan4458/Voice-User-Interface/assets/111554115/43a8850f-d3cf-4f6b-803f-ab2ab966f091)
+![Screenshot 2023-12-12 160749](https://github.com/Chetan4458/Voice-User-Interface/assets/111554115/f34f2274-3cbe-4819-bc3a-30ade6b47426)
 <br />![Screenshot 2023-12-12 160749](https://github.com/Chetan4458/Voice-User-Interface/assets/111554115/f34f2274-3cbe-4819-bc3a-30ade6b47426)
-
 <br />
 ### Normal File transcription
 <br /> ![Screenshot 2023-12-12 160831](https://github.com/Chetan4458/Voice-User-Interface/assets/111554115/e92a34c6-6c80-4f8a-86cb-29e4f6e06554)
@@ -41,6 +37,8 @@ WhatsApp sentiment analysis involves analyzing the emotions and opinions express
 
 ### Recorded audio transcription
 <br />![Screenshot 2023-12-12 160906](https://github.com/Chetan4458/Voice-User-Interface/assets/111554115/bb9b7950-3e57-40db-8d47-a169e5638cd1)
+![Screenshot 2023-12-12 160938](https://github.com/Chetan4458/Voice-User-Interface/assets/111554115/3f3d67d6-2247-4771-ba96-583d0096c2a4)
+
 
 
 
