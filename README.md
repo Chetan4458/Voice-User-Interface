@@ -24,13 +24,13 @@ WhatsApp sentiment analysis involves analyzing the emotions and opinions express
 <br />![Screenshot 2023-12-12 160938](https://github.com/Chetan4458/Voice-User-Interface/assets/111554115/b7c2e1bb-864e-4297-9461-9aa1912a0040)
 <br />
 ### Various features
-![Screenshot 2023-12-12 160633](https://github.com/Chetan4458/Voice-User-Interface/assets/111554115/caa80bbf-efa1-4fa4-81f6-cec8276b936d)
-![Screenshot 2023-12-12 160718](https://github.com/Chetan4458/Voice-7144-4d21-bbb4-1e8486438b07)
+<br />![Screenshot 2023-12-12 160633](https://github.com/Chetan4458/Voice-User-Interface/assets/111554115/caa80bbf-efa1-4fa4-81f6-cec8276b936d)
+<br />![Screenshot 2023-12-12 160718](https://github.com/Chetan4458/Voice-7144-4d21-bbb4-1e8486438b07)
 <br />![Screenshot 2023-12-12 160611](https://github.com/Chetan4458/Voice-User-Interface/assets/111554115/235eb7b9).
 <br />
 ### Chat File transcription
-![Screenshot 2023-12-12 160749](https://github.com/Chetan4458/Voice-User-Interface/assets/111554115/43a8850f-d3cf-4f6b-803f-ab2ab966f091)
-![Screenshot 2023-12-12 160749](https://github.com/Chetan4458/Voice-User-Interface/assets/111554115/f34f2274-3cbe-4819-bc3a-30ade6b47426)
+<br />![Screenshot 2023-12-12 160749](https://github.com/Chetan4458/Voice-User-Interface/assets/111554115/43a8850f-d3cf-4f6b-803f-ab2ab966f091)
+<br />![Screenshot 2023-12-12 160749](https://github.com/Chetan4458/Voice-User-Interface/assets/111554115/f34f2274-3cbe-4819-bc3a-30ade6b47426)
 
 <br />
 ### Normal File transcription
@@ -38,7 +38,7 @@ WhatsApp sentiment analysis involves analyzing the emotions and opinions express
 <br />![Screenshot 2023-12-12 160850](https://github.com/Chetan4458/Voice-User-Interface/assets/111554115/1ccf65e1-fd3d-4548-ae02-3f707b72e7f6)
 
 ### Recorded audio transcription
-![Screenshot 2023-12-12 160906](https://github.com/Chetan4458/Voice-User-Interface/assets/111554115/bb9b7950-3e57-40db-8d47-a169e5638cd1)
+<br />![Screenshot 2023-12-12 160906](https://github.com/Chetan4458/Voice-User-Interface/assets/111554115/bb9b7950-3e57-40db-8d47-a169e5638cd1)
 
 
 
