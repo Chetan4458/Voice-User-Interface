@@ -25,15 +25,15 @@ WhatsApp sentiment analysis involves analyzing the emotions and opinions express
 <br />![Screenshot 2023-12-12 160633](https://github.com/Chetan4458/Voice-User-Interface/assets/111554115/2029e66b-5739-40ff-bff7-f33a0cad9f3c)
 <br />
 
-<br />
 ### Chat File transcription
-<br />![Screenshot 2023-12-12 160749](https://github.com/Chetan4458/Voice-User-Interface/assets/111554115/43a8850f-d3cf-4f6b-803f-ab2ab966f091)
-![Screenshot 2023-12-12 160749](https://github.com/Chetan4458/Voice-User-Interface/assets/111554115/f34f2274-3cbe-4819-bc3a-30ade6b47426)
-<br />![Screenshot 2023-12-12 160749](https://github.com/Chetan4458/Voice-User-Interface/assets/111554115/f34f2274-3cbe-4819-bc3a-30ade6b47426)
+![Screenshot 2023-12-12 160718](https://github.com/Chetan4458/Voice-User-Interface/assets/111554115/235e01e5-8748-4cbd-8a5b-5f8d5588ce9e)
+![Screenshot 2023-12-12 160749](https://github.com/Chetan4458/Voice-User-Interface/assets/111554115/9ee92395-a60e-4eaa-b425-389a21b2ce29)
+
 <br />
 ### Normal File transcription
-<br /> ![Screenshot 2023-12-12 160831](https://github.com/Chetan4458/Voice-User-Interface/assets/111554115/e92a34c6-6c80-4f8a-86cb-29e4f6e06554)
-<br />![Screenshot 2023-12-12 160850](https://github.com/Chetan4458/Voice-User-Interface/assets/111554115/1ccf65e1-fd3d-4548-ae02-3f707b72e7f6)
+![Screenshot 2023-12-12 160831](https://github.com/Chetan4458/Voice-User-Interface/assets/111554115/9f958992-9032-45c4-b083-6085dbf1a06f)
+![Screenshot 2023-12-12 160850](https://github.com/Chetan4458/Voice-User-Interface/assets/111554115/c82d05e9-52f6-4a5e-a317-c2a8b8827b65)
+<br />
 
 ### Recorded audio transcription
 <br />![Screenshot 2023-12-12 160906](https://github.com/Chetan4458/Voice-User-Interface/assets/111554115/bb9b7950-3e57-40db-8d47-a169e5638cd1)
