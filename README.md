@@ -31,8 +31,8 @@ WhatsApp sentiment analysis involves analyzing the emotions and opinions express
 
 <br />
 ### Normal File transcription
-![Screenshot 2023-12-12 160831](https://github.com/Chetan4458/Voice-User-Interface/assets/111554115/c5159863-eef5-4a11-8db3-639eead60c77)
-![Screenshot 2023-12-12 160850](https://github.com/Chetan4458/Voice-User-Interface/assets/111554115/fbf83246-88b8-42e6-b923-2291aad711ef)
+![Screenshot 2023-12-12 160718](https://github.com/Chetan4458/Voice-User-Interface/assets/111554115/c5159863-eef5-4a11-8db3-639eead60c77)
+![Screenshot 2023-12-12 160749](https://github.com/Chetan4458/Voice-User-Interface/assets/111554115/fbf83246-88b8-42e6-b923-2291aad711ef)
 
 <br />
 
