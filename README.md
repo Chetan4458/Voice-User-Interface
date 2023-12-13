@@ -2,7 +2,7 @@
 
 
 Voice user Interfacse involves Text-To-Speech and Speech-To-Text systems.In TTS system whatsapp group chats can be converted as an audio clip to make it more engaging. In STT system any audio clip
-can be transcipted for documentation purposes let it be a chat audio clip or normal audio clip.
+can be transcipted for documentation purposes let it be a chat audio clip or normal audio clip or real time voice of the user.
 
 
 ## Screenshots
