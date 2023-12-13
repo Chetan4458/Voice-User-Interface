@@ -1,8 +1,8 @@
 # Voice-User-Interface
 
 
-WhatsApp sentiment analysis involves analyzing the emotions and opinions expressed in WhatsApp messages or conversations. It aims to classify the sentiment of the text as positive, negative, or neutral, providing insights into the overall sentiment of a group.It also consists of various insights about the group Most active person,Busiest month of the year,Busiest day of the week etc.
-
+Voice user Interfacse involves Text-To-Speech and Speech-To-Text systems.In TTS system whatsapp group chats can be converted as an audio clip to make it more engaging. In STT system any audio clip
+can be transcipted for documentation purposes let it be a chat audio clip or normal audio clip.
 
 
 ## Screenshots
